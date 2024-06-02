@@ -1,4 +1,4 @@
-# pfSense-API
+# pfSense-API (v1)
 
 [![Build](https://github.com/jaredhendrickson13/pfsense-api/actions/workflows/build.yml/badge.svg)](https://github.com/jaredhendrickson13/pfsense-api/actions/workflows/build.yml)
 [![Quality](https://github.com/jaredhendrickson13/pfsense-api/actions/workflows/quality.yml/badge.svg)](https://github.com/jaredhendrickson13/pfsense-api/actions/workflows/quality.yml)
