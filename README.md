@@ -13,6 +13,11 @@ configurations. All API endpoints enforce input validation to prevent invalid co
 Configurations made via API are properly written to the master XML configuration and the correct backend configurations
 are made preventing the need for a reboot. All this results in the fastest, safest, and easiest way to automate pfSense!
 
+> [!IMPORTANT]
+> You are viewing the documentation for the legacy v1 package. While the v1 package is still supported and maintained,
+> it only receives critical bug fixes and security updates. It is recommended to upgrade to the latest v2 package for
+> the best experience and the latest features.
+
 # Requirements
 
 <details>
